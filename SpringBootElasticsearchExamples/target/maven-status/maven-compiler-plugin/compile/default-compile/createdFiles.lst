@@ -1,0 +1,6 @@
+com\example\springbootelasticsearchexample\entity\Product.class
+com\example\springbootelasticsearchexample\service\ProductService.class
+com\example\springbootelasticsearchexample\config\ElasticSearchConfig.class
+com\example\springbootelasticsearchexample\SpringBootElasticsearchExampleApplication.class
+com\example\springbootelasticsearchexample\repo\ProductRepo.class
+com\example\springbootelasticsearchexample\controller\ProductController.class
